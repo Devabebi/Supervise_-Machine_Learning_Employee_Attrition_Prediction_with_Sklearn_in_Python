@@ -3,6 +3,8 @@
 
 <img width="1280" height="720" alt="employee_attrition2" src="https://github.com/user-attachments/assets/d3bc9d18-d48f-4a52-9d7a-c83d118bd5cd" />
 
+🔒 Disclaimer
+All datasets and reports used in this portfolio are entirely fictitious and contain no proprietary, confidential, or sensitive information from any company, institution, or individual. The information presented is dummy data created solely to demonstrate my capability in using Tableau for advanced analytics within the real estate industry.
 
 ## Table of Content
 - [Business Overview](#business-overview)
