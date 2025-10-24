@@ -70,3 +70,7 @@ Before feeding the data into the machine learning model, I did an extensive data
 ## Model Selection Using AutoML
 
 ## Insight & Recommendation
+
+## Thank You
+Reach out for more info!
+<img width="1584" height="396" alt="Python SQL R MachineLearning MySQL DataAnalysis DataVisualization Statistics BigDataAnalysis Pandas NumPy CloudComputing AWS Azure Tableau CommunicationSkills ProblemSolving BusinessIntelligence PostgreSQL" src="https://github.com/user-attachments/assets/79c27f62-8f8d-45ad-8806-8375605448fa" />
